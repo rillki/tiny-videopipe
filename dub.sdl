@@ -1,6 +1,6 @@
 // DMD v2.105.3
 name "tiny-videopipe"
-description "Video pipeing with ffmpeg made easy."
+description "Video piping with ffmpeg made easy."
 authors "rillki"
 copyright "Copyright © 2024, rillki"
 license "BSL-1.0"
